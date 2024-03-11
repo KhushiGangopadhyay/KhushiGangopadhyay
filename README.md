@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Khushi Gangopadhyay](https://github.com/KhushiGangopadhyay), I'm 3rd year student pursuing BE Information Science and Engineering 
+I'm [Khushi Gangopadhyay](https://github.com/KhushiGangopadhyay) 
 
 ---
 
